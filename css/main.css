@@ -1,0 +1,42 @@
+
+
+/* class için --> . koyulur*/
+
+
+/* id --> #id-bilgisi {} */
+
+
+
+
+body {
+  background-color: lightblue;
+}
+
+#urn {background-color: white;
+}
+.margin{
+  margin-left: 10%;
+  margin-right: 10%;
+  display: inline;;
+  font-size:15px;
+}
+
+.text{
+  color: blue;
+}
+
+h1 {
+
+  color:royalblue;
+}
+
+
+ul li {
+  text-align: center;
+  list-style-position: inside;
+}
+ol li {
+  text-align: center;
+  list-style-type: none;
+
+
